@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri":"mysql://root:@localhost/codingthunder",
+    "fb_url":"https://facebook.com/codingthunder",
+    "tw_url":"https://twitter.com/codingthunder",
+    "gh_url": "https://github.com/codingthunder",
+    "blog_name": "On The Other Side Of Peace",
+    "tag_line": "Battels That Changeed The Future",
+    "gmail-user":"frzblog91@gmail.com",
+    "gmail-password":"Sayed@123",
+    "about_text": "Hi my name is feraz and I am learning web dev and I am a good boy",
+    "no_of_posts": 5,
+    "admin_user":"frzblog",
+    "admin_password": "sayed@123",
+    "upload_location": "C:\\Users\\syed\\PycharmProjects\\tut\\static"
+
+  }
+}
